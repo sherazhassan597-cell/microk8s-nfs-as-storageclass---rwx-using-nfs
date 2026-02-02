@@ -1,0 +1,1 @@
+# microk8s-nfs-as-storageclass---rwx-using-nfs
