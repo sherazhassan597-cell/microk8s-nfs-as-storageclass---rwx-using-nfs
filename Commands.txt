@@ -1,0 +1,5 @@
+kubectl get po 
+kubectl get pv 
+kubectl get pvc 
+kubectl apply -f sc-nfs.yaml
+kubectl get -f pvc-nfs.yaml
