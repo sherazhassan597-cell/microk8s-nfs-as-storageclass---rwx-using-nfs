@@ -20,8 +20,10 @@ NFS CSI
 # Files Used 
 sc-nfs.yaml pvc-nfs.yaml exports commands.txt
 ## Commands Used
+```bash 
 kubectl get po 
 kubectl get pv 
 kubectl get pvc 
 kubectl apply -f sc-nfs.yaml
 kubectl apply -f  pvc-nfs.yaml
+```
